@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Support\n"
+"POT-Creation-Date: 2015-02-20 21:23-0500\n"
+"PO-Revision-Date: 2015-02-11 21:23-0500\n"
+"Last-Translator: \n"
+"Language-Team: Themology\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce-product-support.php:41 woocommerce-product-support.php:199
+msgid "Product Support"
+msgstr ""
+
+#: woocommerce-product-support.php:42
+msgid ""
+"This extension allows you to associate Products with either BuddyPress or "
+"bbPress forums.<br/>Below you can specify the default title and content for "
+"an optional first topic."
+msgstr ""
+
+#: woocommerce-product-support.php:108
+msgid "Not Enabled"
+msgstr ""
+
+#: woocommerce-product-support.php:109
+msgid "Enabled"
+msgstr ""
+
+#: woocommerce-product-support.php:110
+msgid "Not Used"
+msgstr ""
+
+#: woocommerce-product-support.php:118
+msgid "This extension requires at least one of the following plugins:"
+msgstr ""
+
+#: woocommerce-product-support.php:119
+msgid "BuddyPress Group Forums:"
+msgstr ""
+
+#: woocommerce-product-support.php:120
+msgid "bbPress Forums:"
+msgstr ""
+
+#: woocommerce-product-support.php:133
+#, php-format
+msgid ""
+"<p>WooCommerce Product Support requires either <a href=\"%s\" target=\"_blank"
+"\" class=\"thickbox onclick\">BuddyPress</a> with <a href=\"%s\">User Groups "
+"and Discussion Forums enabled</a> <em>-OR-</em> <a href=\"%s\" target="
+"\"_blank\" class=\"thickbox onclick\">bbPress</a>. Please install and "
+"activate <em>one</em> of these plugins.</p>"
+msgstr ""
+
+#: woocommerce-product-support.php:147
+msgid "Topic Title"
+msgstr ""
+
+#: woocommerce-product-support.php:150
+msgid "[IMPORTANT] %product_title% Support Guidelines"
+msgstr ""
+
+#: woocommerce-product-support.php:151 woocommerce-product-support.php:165
+msgid "Note: you can use %product_title% to output the product title."
+msgstr ""
+
+#: woocommerce-product-support.php:154
+msgid "Topic Content"
+msgstr ""
+
+#: woocommerce-product-support.php:157
+#, php-format
+msgid ""
+"Welcome to the %%product_title%% support forum!\n"
+"\n"
+"<strong>To expedite your help requests,</strong> please include the version "
+"numbers you're currently running for %%product_title%% and for WordPress, "
+"along with the URL of the website in question. This helps us to research and "
+"test and provide faster support.\n"
+"\n"
+"<strong>Please do <em>not</em> post</strong> your username, password, "
+"licenses or any other personal or sensitive information.\n"
+"\n"
+"Thank you!\n"
+"-The %s Team"
+msgstr ""
+
+#: woocommerce-product-support.php:178
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-product-support.php:210
+msgid "group"
+msgstr ""
+
+#: woocommerce-product-support.php:210
+msgid "forum"
+msgstr ""
+
+#: woocommerce-product-support.php:218
+msgid "Enable support for this product"
+msgstr ""
+
+#: woocommerce-product-support.php:219
+#, php-format
+msgid "Use this %s:"
+msgstr ""
+
+#: woocommerce-product-support.php:221
+#, php-format
+msgid "Create new %s"
+msgstr ""
+
+#: woocommerce-product-support.php:241
+#, php-format
+msgid ""
+"Create first topic using <a href=\"%s\" target=\"_blank\">default setings</"
+"a>."
+msgstr ""
+
+#: woocommerce-product-support.php:306
+#, php-format
+msgid "This is the support group for %s"
+msgstr ""
