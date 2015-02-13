@@ -1,4 +1,4 @@
-=== Product Support for Woocommerce ===
+=== Woocommerce Product Support ===
 Contributors: themology
 Donate link: http://themology.net/donate
 Tags: comments, spam
@@ -31,7 +31,10 @@ When you create or edit a product you're given the option to associate the produ
 * Building paid community sites with BuddyPress
 
 
-Note: This plugin requires either bbPress or BuddyPress to function properly.
+**Note:** This plugin requires either bbPress or BuddyPress to function properly.
+
+
+Want more WordPress theme and plugin, dont forget to visit [Themology] (http://themology.net/ "Your one stop WordPress Shop")
 
 == Installation ==
 
